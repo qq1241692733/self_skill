@@ -1,0 +1,20 @@
+# Runtime state produced by the skill (never commit)
+trees/
+registry/
+series/
+events/
+quarantine/
+state/
+logs/
+
+# Compiled scan engine cache
+*.dll
+*.exe
+*.pdb
+*.cache
+*_Shaders*
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
